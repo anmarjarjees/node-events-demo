@@ -1,2 +1,2 @@
-# node-events-demo
-Quick Demo About Events in Node.js
+# Node Events Demonstration
+Quick Demo About using Events in Node.js JS runtime environment.
