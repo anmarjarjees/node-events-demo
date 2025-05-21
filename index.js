@@ -1,5 +1,8 @@
 // Events in Node Js:
 /*
+Please refer to the original repo:
+https://github.com/anmarjarjees/js-frameworks/blob/main/week02/script2.js
+
 Link: https://nodejs.org/api/process.html#process-event
 */
 
